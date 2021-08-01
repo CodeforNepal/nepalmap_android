@@ -1,2 +1,3 @@
-# nepalmap_android
+# NepalMap Android
+
 Android Client for Nepal Map Blog.
